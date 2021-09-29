@@ -1,0 +1,1674 @@
+[pl_row pagelayer-id="ZTOJe1JUm3bbiKR3"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,70px,0px" content_pos="center"]
+[pl_col pagelayer-id="eguafjvTuq3j7nUi"  widget_space="NaN" overlay_hover_delay="400" col="6"]
+[pl_heading pagelayer-id="ZbLi5NcSwOxjV2LW"  heading_state="normal" heading_typo="Gloria Hallelujah,18,,500,,,Solid,,,," color="#f05c5cff" ele_margin="0px,0px,5px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Education for everyone</h2>[/pl_heading]
+[pl_heading pagelayer-id="nPb9ooxcbmLvsxEJ"  heading_state="normal" heading_typo="Fredoka One,45,,500,,,Solid,1.2,,," color="#3f3a64ff" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Learn About Our Work Culture At Giraffe</h2>[/pl_heading]
+[pl_icon pagelayer-id="Ba90QMKpRZTDnm5X"  icon="far fa-lightbulb" icon_background_size="10" icon_alignment="center" icon_color_style="#cdc7c798" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="140px" ele_hposition_offset="-60px" ele_custom_pos="true" ele_vposition="top" ele_hposition="left" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" ele_css="{{element}} {
+-webkit-animation: mover 1s infinite alternate;
+animation: grow 1s infinite alternate;
+}
+
+@keyframes grow{
+0%{
+-webkit-transform: scale(0);
+transform: scale(1);
+}
+100%{
+-webkit-transform: scale(1.2);
+transform: scale(1.2);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}" icon_rotate="330" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_text pagelayer-id="uKRM7v94bTe9yV2G"  font_family="Montserrat" font_size="14" ele_padding="15px,0px,0px,0px" ele_css="{{element}} {
+color: #696969;
+}" font_weight="500"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>[/pl_text]
+[pl_inner_row pagelayer-id="PIZbdKv1tn2cgsWr"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="lztLn7vYHqJR584l"  widget_space="NaN" overlay_hover_delay="400" col="6"]
+[pl_list pagelayer-id="fzgSMB5VRJNsXCJq"  list_type="none" spacing="10" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#f05c5cff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Fredoka One,14,,500,,,Solid,,,," list_color="#3f3a64ff" spacing_mobile="5"]
+[pl_list_item pagelayer-id="hu90NnpDqnIZmOWr"  show_icon="true" icon="fas fa-check-circle"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transportation[/pl_list_item]
+[pl_list_item pagelayer-id="ktIvCwYsTLVCGeJ5"  show_icon="true" icon="fas fa-check-circle"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nutritious Food[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Ob7guJ2DL8LLHTd3"  widget_space="NaN" overlay_hover_delay="400" col="6"]
+[pl_list pagelayer-id="d22m2gdCOSfsiice"  list_type="none" spacing="10" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#f05c5cff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Fredoka One,14,,500,,,Solid,,,," list_color="#3f3a64ff" spacing_mobile="5" ele_margin_mobile="-20px,0px,0px,0px" ele_margin_tablet="-20px,0px,0px,0px"]
+[pl_list_item pagelayer-id="YVA2uOTQn0y8pqiQ"  show_icon="true" icon="fas fa-check-circle"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outdoor Games[/pl_list_item]
+[pl_list_item pagelayer-id="HkHgPLGXkD1V54Oc"  show_icon="true" icon="fas fa-check-circle"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best Care[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_text pagelayer-id="qf5mUfl2IBss3RPN"  font_family="Montserrat" font_size="14" ele_padding="0px,0px,0px,0px" ele_css="{{element}} {
+color: #696969;
+}" font_weight="500"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_text]
+[pl_heading pagelayer-id="RYBdlg8vFZOF3XQw"  heading_state="normal" ele_padding="20px,0px,0px,0px" heading_typo="Fredoka One,18,,500,,,Solid,,,," color="#3f3a64ff" ele_css="{{element}} .pagelayer-heading-holder span:hover{
+cursor: pointer;
+text-decoration: none !important;
+}
+
+{{element}} .pagelayer-heading-holder span:hover + .arrow{
+visibility: visible !important;
+-webkit-animation: move .2s;
+animation: move .2s;
+-webkit-animation-fill-mode: forwards;
+animation-fill-mode: forwards;
+}
+@keyframes move{
+0%{
+margin-left:0;
+}
+100%{
+margin-left:5px;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Have a question? <a href="#"><span style="color: #f05c5cff; text-decoration: underline;">Get started free</span><span style="color: #f05c5cff; visibility: hidden;" class="arrow">></span></a></h2>[/pl_heading]
+[/pl_col]
+[pl_col pagelayer-id="1J7KmASQdXYCRMNX"  widget_space="NaN" overlay_hover_delay="400" col="6"]
+[pl_image_slider pagelayer-id="gcbc6SmOsOOggnkv"  size="custom" slide_items="1" pause="5000" speed="800" loop="true" auto="" auto_hover="" arrows_bg="#6a6969" arraow_color="#ffffff" arraow_bg_size="20" arraow_bg_shape="20" ids="{{theme_url}}/images/event1.jpg,{{theme_url}}/images/event2.jpg,{{theme_url}}/images/event3.jpg,{{theme_url}}/images/event4.jpg" custom_size="370,574" controls="none" border_width="15px,15px,15px,15px" border_color="#ffffffff" ele_padding="0px,0px,0px,0px" border_type="solid" ele_shadow="0,0,10,#0000000c,5," border_radius="10px,10px,10px,10px" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="400px" ele_css="{{element}} img{
+cursor: move;
+}
+
+@media (max-width: 425px) and (min-width: 326px){
+{{element}} .pagelayer-image-slider-ul {
+    width: 340px;
+    height: 574px;
+}
+}
+
+@media (max-width: 326px){
+{{element}} .pagelayer-image-slider-ul {
+    width: 285px;
+    height: 458px;
+}
+}" custom_size_mobile="300,500"]
+[/pl_image_slider]
+[pl_icon pagelayer-id="w2UoUMZrQIRivnvX"  icon="fas fa-plus" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="300px" ele_hposition_offset="-15px" ele_custom_pos="true" ele_vposition="bottom" ele_hposition="right" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" ele_position_mobile="absolute" ele_vposition_mobile="bottom" ele_hposition_mobile="right" ele_hposition_offset_mobile="30px" ele_vposition_offset_mobile="820px" ele_position_tablet="absolute" ele_vposition_offset_tablet="800px" ele_hposition_tablet="right" ele_hposition_offset_tablet="200px"]
+[/pl_icon]
+[pl_icon pagelayer-id="SmXSO7OsM7KfZkJq"  icon="fas fa-grip-lines-vertical" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="174px" ele_hposition_offset="525px" ele_custom_pos="true" ele_vposition="top" ele_hposition="right" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" icon_rotate="NaN" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="UsUux8zSP8XivVsl"  icon="fas fa-minus" icon_background_size="10" icon_alignment="center" icon_color_style="#7c9aefff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="-30px" ele_hposition_offset="860px" ele_custom_pos="true" ele_vposition="top" ele_hposition="right" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="M7mJssnYVVdvmEtw"  icon="fas fa-divide" icon_background_size="10" icon_alignment="center" icon_color_style="#3f3a6498" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="50px" ele_hposition_offset="-110px" ele_custom_pos="true" ele_vposition="bottom" ele_hposition="left" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="9FieJoVHPqeyjnaJ"  icon="fas fa-dot-circle" icon_background_size="10" icon_alignment="center" icon_color_style="#e2b4f0ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="65px" ele_vposition="top" ele_vposition_offset="-70px" ele_hposition="right" ele_hposition_offset="80px" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_custom_pos="true" animation="" animation_delay="600" animation_speed="slow" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: mover 1s infinite alternate;
+animation: mover 1s infinite alternate;
+}
+
+@keyframes mover{
+0%{
+-webkit-transform: translateY(0);
+transform: translateY(0);
+}
+100%{
+-webkit-transform: translateY(-10px);
+transform: translateY(-10px);
+}
+}
+
+@media (max-width: 425px){
+{{element}} i{
+display: none;
+}
+}" hide_mobile="true"]
+[/pl_icon]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="uE5CpsCw9dXzPH46"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#ffffffff" row_shape_bottom_width="250" row_shape_bottom_height="400" ele_bg_type="color" ele_bg_color="#fff4f2ff" ele_padding="70px,0px,70px,0px" row_shape_position="bottom" row_shape_type_bottom="pyramids"]
+[pl_col pagelayer-id="SGmmNooT9A9L0Pur"  widget_space="NaN" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="PpV7oNV95WKAd05V"  heading_state="normal" heading_typo="Gloria Hallelujah,18,,500,,,Solid,,,1," color="#f05c5cff" ele_margin="0px,0px,5px,0px" align="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Begin your Journey at Giraffe</h2>[/pl_heading]
+[pl_heading pagelayer-id="MXNtz1uYHWs0AX3A"  heading_state="normal" heading_typo="Fredoka One,45,,500,,,Solid,1.2,,," color="#3f3a64ff" align="center" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Feature Courses We Are<br>Offering</h2>[/pl_heading]
+[pl_inner_row pagelayer-id="qqEVVzoFBUhuvEqj"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="10px,0px,0px,0px" border_shadow_hover=",,,,,"]
+[pl_inner_col pagelayer-id="J5KWCEt5TlxhwQUb"  widget_space="NaN" overlay_hover_delay="400" col="3" border_shadow_hover=",,,#35343473,," border_radius="20px,20px,20px,20px" border_hover="hover" border_radius_hover="20px,20px,20px,20px" ele_css="{{element}}:hover .sales-tag {
+    background-color: #1ec0ff;
+}"]
+[pl_shortcodes pagelayer-id="Zhy9zuxgXoNfE0YK"  ele_css=".tag-wrapper {
+position: absolute;
+width: 100%;
+padding: 0 30px;
+}
+
+{{element}} .status-wrapper {
+float: right;
+}
+
+{{element}} .sales-tag {
+    float: left;
+    background-color: #f05c5c;
+    color: #fff;
+    position: relative;
+    padding: 20px 14px;
+    top: 195px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50px;
+}
+
+@media (max-width: 320px){
+{{element}} .tag-wrapper{
+padding: 0px 15px;
+}
+{{element}} .sales-tag {
+top: 142px;
+}
+}
+
+@media (max-width: 768px) and (min-width: 445px){
+{{element}} .sales-tag {
+top: 422px;
+}
+}
+
+@media (max-width: 390px) and (min-width: 375px){
+{{element}} .sales-tag {
+top: 175px;
+}
+}
+
+@media (max-width: 445px) and (min-width: 425px){
+{{element}} .sales-tag {
+top: 210px;
+}
+}" font_family="Fredoka One" font_size="20" font_weight="500" ele_zindex="1" border_width="1px,1px,1px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tag-wrapper">
+<div class="status-wrapper">
+<div class="sales-tag">$90</div>
+</div>
+</div>[/pl_shortcodes]
+[pl_service pagelayer-id="pIg0q0ysCAkBio6n"  service_image="{{theme_url}}/images/preschool.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="hover" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Pre-school Class" heading_alignment="left" service_title_spacing="25,0,10,20" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Fredoka One,22,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" border_radius="20px,20px,0px,0px" img_border_type="solid" img_border_color="#0986c0" img_border_width="0,0,0,0" img_border_radius="20px,20px,0px,0px" service_content_spacing="0,0,0,20" font_family="Montserrat" border_shadow_hover=",,,,0," ele_zindex="NaN" box_url="#" img_border_type_hover="solid" img_border_color_hover="#0986c0" img_border_radius_hover="20px,20px,0px,0px" img_border_width_hover="0,0,0,0" border_hover="" border_radius_hover="20px,20px,0px,0px" border_width_hover="0px,0px,0px,0px" border_type="solid" border_width="1px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_service]
+[pl_btn_grp pagelayer-id="1CDUrvDOCHBhKWBx"  align="left" group_layout="horizontal" vindent="3" hindent="15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="10px,0px,0px,0px" ele_zindex="NaN" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+[pl_btn pagelayer-id="OBrhm6ZbDIRvw8aI"  text="13 Lessons" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-file-alt" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="hVNIziwCjCwwPcJO"  text="20 Students" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-user" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="CK89e37PKbmEQ1ca"  text="Alice Bohm, Linda Glendell" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="fas fa-user-tie" btn_custom_size="5"]
+[/pl_btn]
+[/pl_btn_grp]
+[pl_btn pagelayer-id="MQcXY0fYBYkL0thM"  text="Enroll Now" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="10px,0px,20px,20px" link="#" btn_bg_color="" btn_color="#3f3a64ff" btn_typo="Fredoka One,16,,500,,,Solid,,,," icon="fas fa-angle-right" border_radius="0px,0px,20px,20px" btn_hover="hover" btn_color_hover="#f05c5cff" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[/pl_btn]
+[pl_icon pagelayer-id="PzDdglF2Ev6D7zKk"  icon="fas fa-plus" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="345px" ele_hposition_offset="-75px" ele_custom_pos="true" ele_vposition="bottom" ele_hposition="left" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="lCZA0j8FmU09wLVo"  widget_space="NaN" overlay_hover_delay="400" col="3" border_shadow_hover=",,,#35343473,," border_radius="20px,20px,20px,20px" border_hover="hover" border_radius_hover="20px,20px,20px,20px" ele_css="{{element}}:hover .sales-tag {
+    background-color: #1ec0ff;
+}"]
+[pl_shortcodes pagelayer-id="OjWk3w9YWD4OmN3X"  ele_css=".tag-wrapper {
+position: absolute;
+width: 100%;
+padding: 0 30px;
+}
+
+{{element}} .status-wrapper {
+float: right;
+}
+
+{{element}} .sales-tag {
+    float: left;
+    background-color: #f05c5c;
+    color: #fff;
+    position: relative;
+    padding: 20px 14px;
+    top: 195px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50px;
+}
+
+@media (max-width: 320px){
+{{element}} .tag-wrapper{
+padding: 0px 15px;
+}
+{{element}} .sales-tag {
+top: 142px;
+}
+}
+
+@media (max-width: 768px) and (min-width: 445px){
+{{element}} .sales-tag {
+top: 422px;
+}
+}
+
+@media (max-width: 390px) and (min-width: 375px){
+{{element}} .sales-tag {
+top: 175px;
+}
+}
+
+@media (max-width: 445px) and (min-width: 425px){
+{{element}} .sales-tag {
+top: 210px;
+}
+}" font_family="Fredoka One" font_size="20" font_weight="500" ele_zindex="1"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tag-wrapper">
+<div class="status-wrapper">
+<div class="sales-tag">$92</div>
+</div>
+</div>[/pl_shortcodes]
+[pl_service pagelayer-id="S6RCM4CgMwT233TX"  service_image="{{theme_url}}/images/swimming.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Swimming Lesson Class" heading_alignment="left" service_title_spacing="25,0,10,20" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Fredoka One,22,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" border_radius="20px,20px,0px,0px" img_border_type="solid" img_border_color="#0986c0" img_border_width="0,0,0,0" img_border_radius="20px,20px,0px,0px" service_content_spacing="0,0,0,20" font_family="Montserrat" border_shadow_hover=",,,,0," box_url="#" border_type="solid" border_width="1px,1px,0px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_service]
+[pl_btn_grp pagelayer-id="L26rxI17GlELCamS"  align="left" group_layout="horizontal" vindent="3" hindent="15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="10px,0px,0px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+[pl_btn pagelayer-id="1JJHrO26wccgiZp1"  text="15 Lessons" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-file-alt" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="mRO2Ko4PoC01zb0e"  text="25 Students" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-user" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="LU8ITUQBvO7mIBNQ"  text="Amy Adams, Linda Glendell" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="fas fa-user-tie" btn_custom_size="5"]
+[/pl_btn]
+[/pl_btn_grp]
+[pl_btn pagelayer-id="OFYOh88NvUBVzsUn"  text="Enroll Now" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="10px,0px,20px,20px" link="#" btn_bg_color="" btn_color="#3f3a64ff" btn_typo="Fredoka One,16,,500,,,Solid,,,," icon="fas fa-angle-right" border_radius="0px,0px,20px,20px" btn_hover="hover" btn_color_hover="#f05c5cff" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="L6QblUKqnVOv1tyN"  widget_space="NaN" overlay_hover_delay="400" col="3" border_shadow_hover=",,,#35343473,," border_radius="20px,20px,20px,20px" border_hover="hover" border_radius_hover="20px,20px,20px,20px" ele_css="{{element}}:hover .sales-tag {
+    background-color: #1ec0ff;
+}"]
+[pl_shortcodes pagelayer-id="njfN3ebVZUylqt7v"  ele_css=".tag-wrapper {
+position: absolute;
+width: 100%;
+padding: 0 30px;
+}
+
+{{element}} .status-wrapper {
+float: right;
+}
+
+{{element}} .sales-tag {
+    float: left;
+    background-color: #f05c5c;
+    color: #fff;
+    position: relative;
+    padding: 20px 14px;
+    top: 195px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50px;
+}
+
+@media (max-width: 320px){
+{{element}} .tag-wrapper{
+padding: 0px 15px;
+}
+{{element}} .sales-tag {
+top: 142px;
+}
+}
+
+@media (max-width: 768px) and (min-width: 445px){
+{{element}} .sales-tag {
+top: 422px;
+}
+}
+
+@media (max-width: 390px) and (min-width: 375px){
+{{element}} .sales-tag {
+top: 175px;
+}
+}
+
+@media (max-width: 445px) and (min-width: 425px){
+{{element}} .sales-tag {
+top: 210px;
+}
+}" font_family="Fredoka One" font_size="20" font_weight="500" ele_zindex="1"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tag-wrapper">
+<div class="status-wrapper">
+<div class="sales-tag">$59</div>
+</div>
+</div>[/pl_shortcodes]
+[pl_service pagelayer-id="N5JBQeZs2beqRurL"  service_image="{{theme_url}}/images/color.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Color Match Class" heading_alignment="left" service_title_spacing="25,0,10,20" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Fredoka One,22,,500,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" border_radius="20px,20px,0px,0px" img_border_type="solid" img_border_color="#0986c0" img_border_width="0,0,0,0" img_border_radius="20px,20px,0px,0px" service_content_spacing="0,0,0,20" font_family="Montserrat" border_shadow_hover=",,,,0," box_url="#" border_type="solid" border_width="1px,1px,0px,1px" border_color="#CCC" ele_zindex="NaN"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_service]
+[pl_btn_grp pagelayer-id="qBRgR7pf7LXw5JI8"  align="left" group_layout="horizontal" vindent="3" hindent="15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="10px,0px,0px,0px" border_type="solid" border_width="0px,1px,0px,1px" border_color="#CCC"]
+[pl_btn pagelayer-id="wY6Nyhu9SsMRTnhX"  text="30 Lessons" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-file-alt" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="Yn9OJgd2v8diQd80"  text="15 Students" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-user" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="tiIVeKX6rmqsAURT"  text="Jenny Hilton, Phill Rose" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="fas fa-user-tie" btn_custom_size="5"]
+[/pl_btn]
+[/pl_btn_grp]
+[pl_btn pagelayer-id="93X8NQfgJfjR90ss"  text="Enroll Now" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="10px,0px,20px,20px" link="#" btn_bg_color="" btn_color="#3f3a64ff" btn_typo="Fredoka One,16,,500,,,Solid,,,," icon="fas fa-angle-right" border_radius="0px,0px,20px,20px" btn_hover="hover" btn_color_hover="#f05c5cff" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC"]
+[/pl_btn]
+[pl_image pagelayer-id="ac6ocRsxu2kx9rPu"  id="{{theme_url}}/images/plane.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="90px" ele_position="absolute" ele_vposition="top" ele_vposition_offset="240px" ele_hposition="left" ele_hposition_offset="385px" img_rotate="NaN" ele_css="{{element}} img{
+animation: move2 1s infinite alternate;
+}
+@keyframes move2{
+0%{
+-webkit-transform: translate(0);
+transform: translate(0);
+}
+
+100%{
+-webkit-transform: translate(-10px, -10px);
+transform: translate(-10px, -10px);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} img{
+display: none;
+}
+}" ele_zindex="NaN" hide_mobile="true" hide_tablet="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_btn pagelayer-id="o3EkV6DNRbTpUy2H"  text="View All Classes" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-large" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" ele_padding="40px,0px,0px,0px" icon="" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="25,25,25,25" link="#" btn_typo="Fredoka One,18,,500,,,Solid,,,1," btn_bg_color="#f05c5ce6" btn_color="#ffffff" btn_hover="" btn_bg_color_hover="#3f3a64ff" ele_css="{{element}} a:hover{
+transform: scale(1.1);
+}"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="QM4n6v95pU3uKQJT"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0px,0px,0px,0px" ele_bg_type="image" ele_bg_color="" overlay_type="color" overlay_transperancy="1" overlay_color="#270050cc" content_pos="center" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_bg_img="{{theme_url}}/images/alphabet.jpg" parallax_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png" ele_bg_attachment="fixed"]
+[pl_col pagelayer-id="QmhYbp5XwpMKUeLm"  widget_space="0" overlay_hover_delay="400" col="6" ele_padding="70px,0px,70px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/home-1.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding_tablet="200px,0px,200px,0px" ele_padding_mobile="100px,0px,100px,0px"]
+[/pl_col]
+[pl_col pagelayer-id="XvB5gcIIwqktO7yZ"  widget_space="0" overlay_hover_delay="400" col="6" ele_padding="70px,150px,70px,50px" ele_padding_mobile="20px,20px,20px,20px" ele_padding_tablet="30px,30px,30px,30px"]
+[pl_heading pagelayer-id="oqPDDQamsbR51F7S"  heading_state="normal" heading_typo="Gloria Hallelujah,18,,500,,,Solid,,,1," color="#ffffffff" ele_margin="0px,0px,5px,0px" align="left"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Why Hesitate To Register?</h2>[/pl_heading]
+[pl_heading pagelayer-id="dwfufywIzeKFKxkU"  heading_state="normal" heading_typo="Fredoka One,48,,500,,,Solid,1.2,,," color="#ffffffff" align="left" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}
+
+@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>We Are The Best Choice For <span style="color: #f05c5c;">Your Child</span></h2>[/pl_heading]
+[pl_text pagelayer-id="r2azKTo4FKesrqRD"  font_family="Montserrat" font_size="14" ele_padding="20px,0px,10px,0px" ele_css="{{element}} {
+color: #ffffff;
+}" font_weight="500" text_spacing="0.5"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_text]
+[pl_btn pagelayer-id="yfpQ8pWJQZMFwa7h"  text="Well Trained Professionals" align="left" type="pagelayer-btn-anim" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="10" ele_padding="20px,0px,0px,0px" full_width="true" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="40,40,40,40" icon="fas fa-user" btn_bg_color="#ffffffff" btn_color="#505050ff" btn_typo="Montserrat,18,,,,,Solid,,,," ele_css="{{element}} i{
+color: #f05c5c;
+font-size: 22px;
+}
+
+{{element}}:hover i{
+color: #ffffff;
+font-size: 22px;
+}
+
+{{element}} .pagelayer-btn-holder{
+border-radius: 40px;
+}
+
+{{element}} .pagelayer-btn-anim-left:after{
+border-radius: 40px;
+transition: all 0.80s;
+}
+
+{{element}} a{
+text-align: left;
+}" anim_type="slide" direction="pagelayer-btn-anim-left" btn_hover="hover" btn_color_hover="#ffffffff" btn_bg_color_hover="#f05c5cff"]
+[/pl_btn]
+[pl_btn pagelayer-id="HhiLswg4SUCem3na"  text="Awesome Infra-Structure" align="left" type="pagelayer-btn-anim" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="10" ele_padding="20px,0px,0px,0px" full_width="true" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="40,40,40,40" icon="fas fa-bed" btn_bg_color="#ffffffff" btn_color="#505050ff" btn_typo="Montserrat,18,,,,,Solid,,,," ele_css="{{element}} i{
+color: #ffd338;
+font-size: 22px;
+}
+
+{{element}}:hover i{
+color: #ffffff;
+font-size: 22px;
+}
+
+{{element}} .pagelayer-btn-holder{
+border-radius: 40px;
+}
+
+{{element}} .pagelayer-btn-anim-left:after{
+border-radius: 40px;
+transition: all 0.80s;
+}
+
+{{element}} a{
+text-align: left;
+}" anim_type="slide" direction="pagelayer-btn-anim-left" btn_hover="hover" btn_color_hover="#ffffffff" btn_bg_color_hover="#ffd338ff"]
+[/pl_btn]
+[pl_btn pagelayer-id="ZPmbNZOXt5tT3wqr"  text="International Lesson Patterns" align="left" type="pagelayer-btn-anim" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="10" ele_padding="20px,0px,0px,0px" full_width="true" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="40,40,40,40" icon="fas fa-book-open" btn_bg_color="#ffffffff" btn_color="#505050ff" btn_typo="Montserrat,18,,,,,Solid,,,," ele_css="{{element}} i{
+color: #1ec0ff;
+font-size: 22px;
+}
+
+{{element}}:hover i{
+color: #ffffff;
+font-size: 22px;
+}
+
+{{element}} .pagelayer-btn-holder{
+border-radius: 40px;
+}
+
+{{element}} .pagelayer-btn-anim-left:after{
+border-radius: 40px;
+transition: all 0.80s;
+}
+
+{{element}} a{
+text-align: left;
+}" anim_type="slide" direction="pagelayer-btn-anim-left" btn_hover="hover" btn_color_hover="#ffffffff" btn_bg_color_hover="#1ec0ffff"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="kE1Ahdq4A97MLKyY"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff4f2ff" row_shape_bottom_width="300" row_shape_bottom_height="500" ele_padding="70px,0px,70px,0px" row_shape_position="bottom" row_shape_type_bottom="pyramids"]
+[pl_col pagelayer-id="Dg2lPRpiYRAx52pn"  widget_space="0" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="NgFC3e2C5UeZagF1"  heading_state="normal" heading_typo="Gloria Hallelujah,18,,500,,,Solid,,,1," color="#f05c5cff" ele_margin="0px,0px,5px,0px" align="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Together We can Contribute</h2>[/pl_heading]
+[pl_heading pagelayer-id="GRTqBvcgpU4PDIlM"  heading_state="normal" heading_typo="Fredoka One,45,,500,,,Solid,1.2,,," color="#3f3a64ff" align="center" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Who Stands By Your Kids<br>Always</h2>[/pl_heading]
+[pl_icon pagelayer-id="RS855TSigEClee68"  icon="far fa-star" icon_background_size="10" icon_alignment="center" icon_color_style="#1ec0ffff" icon_size="pagelayer-icon-small" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_custom_pos="true" ele_align="100%" ele_height="auto" ele_position="absolute" ele_custom_width="64px" ele_vposition="top" ele_vposition_offset="25px" ele_hposition="left" ele_hposition_offset="950px" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_track="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="ZU0mpY8vfYiLkSgf"  icon="fas fa-plus" icon_background_size="10" icon_alignment="center" icon_color_style="#f05c5cff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="200px" ele_hposition_offset="-75px" ele_custom_pos="true" ele_vposition="top" ele_hposition="left" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5" hide_mobile="true"]
+[/pl_icon]
+[pl_inner_row pagelayer-id="jgAVzUKpWIsoHMfI"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="VAmIfSOzAyas6CwM"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="l8wJKsXTuFAj14Lp"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Alice Bohm" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Health, Life Skills&lt;br&gt;
+alice@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher1.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="jnZFAlpw0yIWFTKM"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="P8cnptcWOeDpRhkY"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Grom Frog" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Computer Skills, Health&lt;br&gt;
+grom@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher2.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="5IboU97K24GqJgL3"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="xgZYSVgnak1afbpw"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="James Doe" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Health, Life Skills&lt;br&gt;
+james@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher3.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="09fueNbYxxXG3net"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="f6GXhX1mzodraELt"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Emily Backham" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Math, Science&lt;br&gt;
+bachkam@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher4.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="ZEP9UeMHIE4JAoiv"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="wU0kV6UYVLAFSGGF"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="kLlAw9PEevWNUM3a"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Jenny Helton" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Computer Skills, Life Skills&lt;br&gt;
+jenny@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher5.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="JoMmzthj8P5GBHqM"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="1g3aGmbJ2SpLEQxo"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Amy Adams" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Language Arts, Life Skills&lt;br&gt;
+amy@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher6.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="nLY56pSRwtbt417p"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="aUUyeHAnuURojM7a"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Phill Rose" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Maths, Arts&lt;br&gt;
+phillrose@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher7.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="r25tCKYOXNxMnOH6"  widget_space="0" overlay_hover_delay="400" col="3"]
+[pl_flipbox pagelayer-id="sLNS1DQJOXTmm3Uf"  height="300" content_width="100" flip_animation="slide" animation_direction="down" animation_duration="600" front-text-align="center" front_heading="" heading_color="#ffffff" heading_typography="Poppins,40,,500,,,solid,,,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="0,0,0,0" back-text-align="center" back_heading="Jack Daniel" back_heading_color="#ffffffff" back_heading_typography="Fredoka One,22,,500,,,Solid,,,," back_content="Language Art, Math&lt;br&gt;
+jack@gmail.com" back_content_color="#ffffffff" back_content_typography="Montserrat,16,,500,,,Solid,2,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="0,0,0,0" front_background_type="image" front_background_image="{{theme_url}}/images/teacher8.jpg" front_background_posx="center" front_background_posy="center" front_background_repeat="no-repeat" front_background_size="cover" border_radius="10px,10px,10px,10px" flip_border_radius="10px,10px,10px,10px" back_background_type="color" back_background_color="#f05c5cff" ele_shadow="0,20,50,#e5e5e5cc,0," border_shadow_hover="3,9,10,#35343473,0," height_tablet="800"]
+[/pl_flipbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_heading pagelayer-id="OWYBYW6lqsPbQDbW"  heading_state="normal" ele_padding="30px,0px,0px,0px" heading_typo="Fredoka One,18,,500,,,Solid,,,," color="#3f3a64ff" ele_css="{{element}} .pagelayer-heading-holder span:hover{
+cursor: pointer;
+text-decoration: none !important;
+}
+
+{{element}} .pagelayer-heading-holder span:hover + .arrow{
+visibility: visible !important;
+-webkit-animation: move .2s;
+animation: move .2s;
+-webkit-animation-fill-mode: forwards;
+animation-fill-mode: forwards;
+}
+@keyframes move{
+0%{
+margin-left:0;
+}
+100%{
+margin-left:5px;
+}
+}" align="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>With 20+ Qualified Teacher? <a href="#"><span style="color: #f05c5cff; text-decoration: underline;">View All Here</span><span style="color: #f05c5cff; visibility: hidden;" class="arrow">></span></a></h2>[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="2VnLYKrWmGL2g2j8"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="70px,0px,70px,0px" ele_bg_type="" ele_bg_repeat="no-repeat" ele_bg_posy="bottom" ele_bg_posx_custom="-170px" ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png"]
+[pl_col pagelayer-id="PDnVPr4ELmp0nMyP"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="0P37VyOMLQIoTH0K"  heading_state="normal" heading_typo="Gloria Hallelujah,18,,500,,,Solid,,,1," color="#f05c5cff" ele_margin="0px,0px,5px,0px" align="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Join Our New Session</h2>[/pl_heading]
+[pl_icon pagelayer-id="JlTr8y98mwkMNOVf"  icon="far fa-star" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-small" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_position="absolute" ele_custom_width="78px" ele_vposition="top" ele_vposition_offset="15px" ele_hposition="left" ele_hposition_offset="1000px" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_track="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_image pagelayer-id="JQ5EeYXUGUICYWU6"  id="{{theme_url}}/images/sun.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" custom_size="100x100" max-width="80" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_position="absolute" ele_vposition="top" ele_vposition_offset="-25px" ele_hposition="left" ele_hposition_offset="680px" ele_custom_width="50px" ele_css="{{element}} img{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+
+@media (max-width: 650px){
+{{element}} img{
+display: none;
+}" hide_mobile="true" hide_tablet="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading pagelayer-id="LMftteetitLkn4h5"  heading_state="normal" heading_typo="Fredoka One,48,,500,,,Solid,1.2,,," color="#3f3a64ff" align="center" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Call To Enroll Your Child<br>+123 2568 459</h2>[/pl_heading]
+[pl_btn pagelayer-id="OHV5dqAvzODEtuwz"  text="Call Us Now" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" ele_padding="40px,0px,0px,0px" icon="" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="25,25,25,25" link="#" btn_typo="Fredoka One,18,,500,,,Solid,,,1," btn_bg_color="#f05c5ce6" btn_color="#ffffff" btn_hover="" btn_bg_color_hover="#3f3a64ff" ele_css="{{element}} a:hover{
+transform: scale(1.1);
+}" btn_custom_size="5" ele_shadow=",,,,0," btn_shadow="0,2,5,#3534344d,0," btn_shadow_hover="3,6,10,#35343473,0," ele_padding_mobile="20px,0px,0px,0px"]
+[/pl_btn]
+[pl_image pagelayer-id="wf7n7I7JhTDSmtXY"  id="{{theme_url}}/images/family.png" id-size="full" align="left" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_position="absolute" ele_vposition="bottom" ele_vposition_offset="-70px" ele_hposition="left" ele_hposition_offset="-150px" ele_css="{{element}} {
+animation: walk 5s infinite alternate-reverse;
+}
+@keyframes walk{
+0%{
+-webkit-transform: translate(0);
+transform: translate(0);
+}
+
+100%{
+-webkit-transform: translate(-170px);
+transform: translate(-170px);
+}
+}
+
+@media (max-width: 767px){
+{{element}} img{
+display:none;
+}
+}" ele_custom_width="500px" hide_mobile="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="F08zCeNv5Sig3jw1"  id="{{theme_url}}/images/support.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="38" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_position="absolute" ele_vposition="bottom" ele_vposition_offset="-30px" ele_hposition="left" ele_hposition_offset="636px" ele_css="{{element}} img{
+-webkit-animation: mover 1s infinite alternate;
+animation: mover 1s infinite alternate;
+}
+
+@media (max-width: 700px){
+{{element}} img{
+display: none;
+}
+}" ele_custom_width="277px" hide_mobile="true" ele_hposition_tablet="left" ele_vposition_tablet="bottom" ele_position_tablet="absolute" ele_hposition_offset_tablet="486px" ele_custom_width_tablet="240px" hide_tablet="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="moKZTAPI235tZtMk"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#ffffffff" row_shape_bottom_width="250" row_shape_bottom_height="400" ele_padding="70px,0px,70px,0px" ele_bg_type="color" ele_bg_color="#fff4f2ff" row_shape_position="bottom" row_shape_type_bottom="pyramids"]
+[pl_col pagelayer-id="nIvLfeVzcsSMdQyE"  widget_space="0" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="aFETOd9ox1Kbqv4D"  heading_state="normal" heading_typo="Gloria Hallelujah,18,,500,,,Solid,,,1," color="#f05c5cff" ele_margin="0px,0px,5px,0px" align="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>News and Blogs</h2>[/pl_heading]
+[pl_heading pagelayer-id="MTjLKDUrV8GHnBD0"  heading_state="normal" heading_typo="Fredoka One,48,,500,,,Solid,1.2,,," color="#3f3a64ff" align="center" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Interested Articles<br>Updated Daily</h2>[/pl_heading]
+[pl_inner_row pagelayer-id="wkRCnUF22rP7hRcv"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="10px,0px,0px,0px" border_shadow_hover=",,,,,"]
+[pl_inner_col pagelayer-id="Dms1EVKZeUp2RSz2"  widget_space="0" overlay_hover_delay="400" col="3" border_shadow_hover=",,,#35343473,," border_radius="20px,20px,20px,20px" border_hover="hover" border_radius_hover="20px,20px,20px,20px"]
+[pl_shortcodes pagelayer-id="MEhBPijVJG1eMaiV"  ele_css=".tag-wrapper {
+position: absolute;
+width: 100%;
+padding: 0 30px;
+}
+
+{{element}} .status-wrapper {
+float: left;
+}
+
+{{element}} .sales-tag {
+    float: left;
+    background-color: #2ECC71;
+    color: #fff;
+    position: relative;
+    padding: 12px 14px;
+    top: 195px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 5px;
+}
+
+@media (max-width: 320px){
+{{element}} .sales-tag {
+top: 142px;
+}
+}
+
+@media (max-width: 768px) and (min-width: 445px){
+{{element}} .sales-tag {
+top: 422px;
+}
+}
+
+@media (max-width: 390px) and (min-width: 375px){
+{{element}} .sales-tag {
+top: 175px;
+}
+}
+
+@media (max-width: 445px) and (min-width: 425px){
+{{element}} .sales-tag {
+top: 210px;
+}
+}" font_family="Fredoka One" font_size="20" font_weight="500" ele_zindex="1" border_width="1px,1px,1px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tag-wrapper">
+<div class="status-wrapper">
+<div class="sales-tag">10<br>Oct</div>
+</div>
+</div>[/pl_shortcodes]
+[pl_service pagelayer-id="Vyc3WO5UeXL4ixVG"  service_image="{{theme_url}}/images/post1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="hover" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Full-Day Session With New Activities" heading_alignment="left" service_title_spacing="50,20,10,20" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Fredoka One,22,,500,,,Solid,1.2,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" border_radius="20px,20px,0px,0px" img_border_type="solid" img_border_color="#0986c0" img_border_width="0,0,0,0" img_border_radius="20px,20px,0px,0px" service_content_spacing="0,20,0,20" font_family="Montserrat" border_shadow_hover=",,,,0," ele_zindex="NaN" box_url="#" img_border_type_hover="solid" img_border_color_hover="#0986c0" img_border_radius_hover="20px,20px,0px,0px" img_border_width_hover="0,0,0,0" border_hover="" border_radius_hover="20px,20px,0px,0px" border_width_hover="0px,0px,0px,0px" border_type="solid" border_width="1px,1px,0px,1px" border_color="#CCC" service_button_type="pagelayer-btn-default" service_button_size="pagelayer-btn-small" service_button_text="Click Here!"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+
+
+</p>[/pl_service]
+[pl_btn_grp pagelayer-id="3Yt6fT2zyJeyWMCq"  align="left" group_layout="horizontal" vindent="3" hindent="15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,0px,20px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,20px,20px"]
+[pl_btn pagelayer-id="4eFbu7dEn4jwoZtE"  text="John Smith" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-user" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="6vEa8UgK7qJiQA4r"  text="1" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-comments" btn_custom_size="5"]
+[/pl_btn]
+[/pl_btn_grp]
+[pl_icon pagelayer-id="2tOJG7b870kEvcl2"  icon="fas fa-plus" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="345px" ele_hposition_offset="-75px" ele_custom_pos="true" ele_vposition="bottom" ele_hposition="left" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5" hide_mobile="true"]
+[/pl_icon]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="wCHfira8jMX3qafM"  widget_space="0" overlay_hover_delay="400" col="3" border_shadow_hover=",,,#35343473,," border_radius="20px,20px,20px,20px" border_hover="hover" border_radius_hover="20px,20px,20px,20px"]
+[pl_shortcodes pagelayer-id="79ebZcbcm8JonTg0"  ele_css=".tag-wrapper {
+position: absolute;
+width: 100%;
+padding: 0 30px;
+}
+
+{{element}} .status-wrapper {
+float: left;
+}
+
+{{element}} .sales-tag {
+    float: left;
+    background-color: #1ec0ff;
+    color: #fff;
+    position: relative;
+    padding: 12px 14px;
+    top: 195px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 5px;
+}
+
+@media (max-width: 320px){
+{{element}} .sales-tag {
+top: 142px;
+}
+}
+
+@media (max-width: 768px) and (min-width: 445px){
+{{element}} .sales-tag {
+top: 422px;
+}
+}
+
+@media (max-width: 390px) and (min-width: 375px){
+{{element}} .sales-tag {
+top: 175px;
+}
+}
+
+@media (max-width: 445px) and (min-width: 425px){
+{{element}} .sales-tag {
+top: 210px;
+}
+}" font_family="Fredoka One" font_size="20" font_weight="500" ele_zindex="1" border_width="1px,1px,1px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tag-wrapper">
+<div class="status-wrapper">
+<div class="sales-tag">10<br>Oct</div>
+</div>
+</div>[/pl_shortcodes]
+[pl_service pagelayer-id="iqauyOfiynJm6fki"  service_image="{{theme_url}}/images/post2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="hover" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="How to draw a school step by step?" heading_alignment="left" service_title_spacing="50,20,10,20" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Fredoka One,22,,500,,,Solid,1.2,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" border_radius="20px,20px,0px,0px" img_border_type="solid" img_border_color="#0986c0" img_border_width="0,0,0,0" img_border_radius="20px,20px,0px,0px" service_content_spacing="0,20,0,20" font_family="Montserrat" border_shadow_hover=",,,,0," ele_zindex="NaN" box_url="#" img_border_type_hover="solid" img_border_color_hover="#0986c0" img_border_radius_hover="20px,20px,0px,0px" img_border_width_hover="0,0,0,0" border_hover="" border_radius_hover="20px,20px,0px,0px" border_width_hover="0px,0px,0px,0px" border_type="solid" border_width="1px,1px,0px,1px" border_color="#CCC" service_button_type="pagelayer-btn-default" service_button_size="pagelayer-btn-small" service_button_text="Click Here!"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+
+
+</p>[/pl_service]
+[pl_btn_grp pagelayer-id="q5WCy2rwJKkKGbzH"  align="left" group_layout="horizontal" vindent="3" hindent="15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,0px,20px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,20px,20px"]
+[pl_btn pagelayer-id="NrIOPiagnf6r5Fao"  text="John Smith" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-user" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="RiHFZMZLYSg4XgGu"  text="1" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-comments" btn_custom_size="5"]
+[/pl_btn]
+[/pl_btn_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="TfbZNdWoNUiFs24M"  widget_space="0" overlay_hover_delay="400" col="3" border_shadow_hover=",,,#35343473,," border_radius="20px,20px,20px,20px" border_hover="hover" border_radius_hover="20px,20px,20px,20px"]
+[pl_shortcodes pagelayer-id="v85DCqA5vbVmPr04"  ele_css=".tag-wrapper {
+position: absolute;
+width: 100%;
+padding: 0 30px;
+}
+
+{{element}} .status-wrapper {
+float: left;
+}
+
+{{element}} .sales-tag {
+    float: left;
+    background-color: #5D9CEC;
+    color: #fff;
+    position: relative;
+    padding: 12px 14px;
+    top: 195px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 5px;
+}
+
+@media (max-width: 320px){
+{{element}} .sales-tag {
+top: 142px;
+}
+}
+
+@media (max-width: 768px) and (min-width: 445px){
+{{element}} .sales-tag {
+top: 422px;
+}
+}
+
+@media (max-width: 390px) and (min-width: 375px){
+{{element}} .sales-tag {
+top: 175px;
+}
+}
+
+@media (max-width: 445px) and (min-width: 425px){
+{{element}} .sales-tag {
+top: 210px;
+}
+}" font_family="Fredoka One" font_size="20" font_weight="500" ele_zindex="1" border_width="1px,1px,1px,1px" border_color="#CCC"]
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tag-wrapper">
+<div class="status-wrapper">
+<div class="sales-tag">10<br>Oct</div>
+</div>
+</div>[/pl_shortcodes]
+[pl_service pagelayer-id="YdQf3Vq9jFYmfVL7"  service_image="{{theme_url}}/images/post3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="hover" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Helping Your Child with Socialization" heading_alignment="left" service_title_spacing="50,20,10,20" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Fredoka One,22,,500,,,Solid,1.2,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" border_radius="20px,20px,0px,0px" img_border_type="solid" img_border_color="#0986c0" img_border_width="0,0,0,0" img_border_radius="20px,20px,0px,0px" service_content_spacing="0,20,0,20" font_family="Montserrat" border_shadow_hover=",,,,0," ele_zindex="NaN" box_url="#" img_border_type_hover="solid" img_border_color_hover="#0986c0" img_border_radius_hover="20px,20px,0px,0px" img_border_width_hover="0,0,0,0" border_hover="" border_radius_hover="20px,20px,0px,0px" border_width_hover="0px,0px,0px,0px" border_type="solid" border_width="1px,1px,0px,1px" border_color="#CCC" service_button_type="pagelayer-btn-default" service_button_size="pagelayer-btn-small" service_button_text="Click Here!"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+
+
+</p>[/pl_service]
+[pl_btn_grp pagelayer-id="KpGvwuT08K8eV7pJ"  align="left" group_layout="horizontal" vindent="3" hindent="15" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,0px,20px,0px" border_type="solid" border_width="0px,1px,1px,1px" border_color="#CCC" border_radius="0px,0px,20px,20px"]
+[pl_btn pagelayer-id="88VZhCwJ0JoS5WT0"  text="John Smith" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-user" btn_custom_size="5"]
+[/pl_btn]
+[pl_btn pagelayer-id="bfAQt49z1ZoWT6qw"  text="1" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Montserrat,14,,,,,Solid,,,," btn_bg_color="" btn_color="" icon="far fa-comments" btn_custom_size="5"]
+[/pl_btn]
+[/pl_btn_grp]
+[pl_image pagelayer-id="beTEFxpB6sZYw53j"  id="{{theme_url}}/images/plane.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="90px" ele_position="absolute" ele_vposition="top" ele_vposition_offset="240px" ele_hposition="left" ele_hposition_offset="385px" img_rotate="NaN" ele_css="{{element}} img{
+animation: move2 1s infinite alternate;
+}
+@keyframes move2{
+0%{
+-webkit-transform: translate(0);
+transform: translate(0);
+}
+
+100%{
+-webkit-transform: translate(-10px, -10px);
+transform: translate(-10px, -10px);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} img{
+display: none;
+}
+}" ele_zindex="NaN" hide_mobile="true" hide_tablet="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_heading pagelayer-id="O4OD1Tg8m7FAWGEI"  heading_state="normal" ele_padding="30px,0px,0px,0px" heading_typo="Fredoka One,18,,500,,,Solid,,,," color="#3f3a64ff" ele_css="{{element}} .pagelayer-heading-holder span:hover{
+cursor: pointer;
+text-decoration: none !important;
+}
+
+{{element}} .pagelayer-heading-holder span:hover + .arrow{
+visibility: visible !important;
+-webkit-animation: move .2s;
+animation: move .2s;
+-webkit-animation-fill-mode: forwards;
+animation-fill-mode: forwards;
+}
+@keyframes move{
+0%{
+margin-left:0;
+}
+100%{
+margin-left:5px;
+}
+}" align="center"]
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Get into details now? <a href="#"><span style="color: #f05c5cff; text-decoration: underline;">View All Our Posts</span><span style="color: #f05c5cff; visibility: hidden;" class="arrow">></span></a></h2>[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Vrj4v6pVx2FZklAB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#ffffffff" row_shape_bottom_width="215" row_shape_bottom_height="200" ele_padding="70px,0px,70px,0px" ele_bg_type="color" ele_bg_color="#fff4f2ff" content_pos="center" row_shape_position="bottom" row_shape_type_bottom="waves"]
+[pl_col pagelayer-id="4JE5eXOtlevJMyJf"  widget_space="0" overlay_hover_delay="400" col="5"]
+[pl_image pagelayer-id="Yqxz0V6WPMaCLOGS"  id="{{theme_url}}/images/newsletter.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="50" img_rotate="12"]
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="MnA3Anwy3WLIyqC6"  id="{{theme_url}}/images/sun.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" custom_size="100x100" max-width="100" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_position="absolute" ele_vposition="top" ele_vposition_offset="-20px" ele_hposition="left" ele_hposition_offset="60px" ele_custom_width="70px" ele_css="{{element}} img{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="bZz6ccgRAQi9zgDb"  widget_space="0" overlay_hover_delay="400" col="7"]
+[pl_heading pagelayer-id="bnoZaqgoHFgHB25u"  heading_state="normal" heading_typo="Fredoka One,48,,500,,,Solid,1.2,,1," color="#3f3a64ff" align="left" ele_zindex="2" heading_typo_mobile=",30,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}
+@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder span{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Subscribe <span style="color:#f05c5cff;">Newsletter</span></h2>[/pl_heading]
+[pl_icon pagelayer-id="KBHsoGDyTol57bEu"  icon="far fa-paper-plane" icon_background_size="10" icon_alignment="center" icon_color_style="#edeb92ff" icon_size="pagelayer-icon-double-large" icon_hover_delay="400" ele_align="50%" ele_height="auto" ele_position="absolute" ele_custom_width="100px" ele_vposition_offset="137px" ele_hposition_offset="175px" ele_custom_pos="true" ele_vposition="bottom" ele_hposition="left" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" ele_css="{{element}} i{
+animation: move2 1s infinite alternate;
+}" ele_position_tablet="absolute"]
+[/pl_icon]
+[pl_text pagelayer-id="3VgMhYGKIpL7zRj0"  font_family="Montserrat" font_size="14" ele_padding="5px,0px,10px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Enter your email address to register to our newsletter delivered on a regular basis!</p>[/pl_text]
+[pl_search pagelayer-id="djpGsXnXdtGnnd9C"  type="classic" placeholder="Enter your email" button_type="text" size="50" holder_border_type="solid" input_width="100" button_colors="normal" button_icon="fas fa-search" field_align="center" holder_border_color="#f05c5cff" holder_border_width="1,1,1,1" button_position="row" ele_padding="30px,0px,0px,0px" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_custom_width="400px" toggle_align="left" button_text="Subscribe" field-width="NaN" input_typo="Montserrat,14,,,,,Solid,,,," input_border_type="solid" input_border_color="#f05c5cff" input_border_width="1,1,1,1" input_border_radius="25,0,0,25" button_bg_color="#f05c5cff" button_color="#ffffffff" button_radius="NaNpx" button_typo="Fredoka One,18,,500,,,Solid,,,," button_size="NaNpx" button_padding="0px,20px,0px,30px" button_width="NaNpx" submit_border_type="solid" submit_border_color="#42414f" submit_border_width="0,0,0,0" ele_css="{{element}} .pagelayer-search-submit{
+border-radius: 0px 25px 25px 0px!important;
+}" input_colors="normal" holder_border_radius="25,25,25,25"]
+[/pl_search]
+[/pl_col]
+[/pl_row]

@@ -1,0 +1,140 @@
+[pl_row pagelayer-id="uXAeHXA1wQMJaM0K"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_col pagelayer-id="7EHWpLgWOVfuzm0S"  widget_space="15" overlay_hover_delay="400"]
+[pl_google_maps pagelayer-id="VTsT30pt2lWcBdz7"  zoom="10" height="400"]
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ttvBFC7dAAIAcnZ0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="60px,0px,70px,0px" content_pos="center"]
+[pl_col pagelayer-id="SK3kC0y8GwNSDYjU"  widget_space="0" overlay_hover_delay="400" col="5" ele_padding="0px,20px,20px,0px" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="Hf0rA0NRedGzCz1M"  heading_state="normal" heading_typo="Fredoka One,48,,500,,,Solid,,,," color="#3f3a64ff" heading_typo_mobile=",24,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 30px !important;
+}
+}"]
+
+
+
+
+<h2>Get in Touch</h2>[/pl_heading]
+[pl_icon pagelayer-id="YbZmTZbxZG4xS5fr"  icon="fas fa-plus" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="70px" ele_hposition_offset="-75px" ele_custom_pos="true" ele_vposition="top" ele_hposition="left" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5"]
+[/pl_icon]
+[pl_text pagelayer-id="LlMujHUs8b5YnuqP"  font_family="Montserrat" font_size="14" ele_padding="0px,0px,0px,0px" ele_css="{{element}} {
+color: #696969;
+}" font_weight="500"]
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>[/pl_text]
+[pl_iconbox pagelayer-id="WXujvkJJK923fwBG"  service_icon="fas fa-map" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="65" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Address" heading_alignment="left" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Fredoka One,24,,500,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_margin="10px,0px,20px,0px" ele_padding="25px,25px,25px,25px" service_content_spacing="0,0,0,20" ele_bg_type="color" ele_bg_color="#f05c5cff" font_family="Montserrat" font_size="16" ele_css="{{element}} {
+color: #ffffff;
+}" border_radius="10px,10px,10px,10px" border_shadow_hover="3,6,10,#35343473,0,"]
+
+
+
+
+<p>206, James Street, New Balcony, 502360</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="D6BqTZOSxfzS0PQp"  service_icon="fas fa-phone-alt" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="65" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Phone Number" heading_alignment="left" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Fredoka One,24,,500,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_margin="0px,0px,20px,0px" ele_padding="25px,25px,25px,25px" service_content_spacing="0,0,0,20" ele_bg_type="color" ele_bg_color="#fb9130ff" font_family="Montserrat" font_size="16" ele_css="{{element}} {
+color: #ffffff;
+}" border_radius="10px,10px,10px,10px" border_shadow_hover="3,6,9,#35343473,0,"]
+
+
+
+
+<p>+1(123) 28569542</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="Yn48YLC4XnmvPfFl"  service_icon="fas fa-envelope-open-text" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="65" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Email" heading_alignment="left" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Fredoka One,24,,500,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_margin="0px,0px,20px,0px" ele_padding="25px,25px,25px,25px" service_content_spacing="0,0,0,20" ele_bg_type="color" ele_bg_color="#1ec0ffff" font_family="Montserrat" font_size="16" ele_css="{{element}} {
+color: #ffffff;
+}" border_radius="10px,10px,10px,10px" border_shadow_hover="3,6,9,#35343473,0,"]
+
+
+
+
+<p>sitepadteam@sitepad.com</p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="jZGLFMTuV31EZKrE"  service_icon="far fa-clock" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="65" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Work Time" heading_alignment="left" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Fredoka One,24,,500,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_margin="0px,0px,20px,0px" ele_padding="25px,25px,25px,25px" service_content_spacing="0,0,0,20" ele_bg_type="color" ele_bg_color="#87dba2ff" font_family="Montserrat" font_size="16" ele_css="{{element}} {
+color: #ffffff;
+}" border_radius="10px,10px,10px,10px" border_shadow_hover="3,6,9,#35343473,0,"]
+
+
+
+
+<p>Mon - Sat: 8h 00 - 17h 30.</p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="3KO0cwc9FbiToH4P"  widget_space="0" overlay_hover_delay="400" col="7" ele_bg_type="color" ele_bg_color="#ffd339ff" border_radius="10px,10px,10px,10px" ele_padding="60px,60px,60px,60px" ele_padding_tablet="30px,30px,30px,30px" ele_padding_mobile="10px,10px,10px,10px"]
+[pl_contact pagelayer-id="tIiPn3O7fOTAQyAE"  form="contact-form" name="Contact Form" form_position="default" space_label="0,0,0,0" input_state="normal" input_padding="14,25" radio_padding="15,15" field_hover_delay="400" submit="Send Message" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" con_post_id="328" form_input_bg="#00000026" field_border_type="solid" field_border_color="#d9b431ff" field_border_width="1,1,1,1" field_border_radius="25,25,25,25" form_input_color="#ffffffff" form_placeholder_color="#ffffffff" placeholder_typo="Montserrat,16,,,,,Solid,,,," input_typo="Montserrat,16,,,,,Solid,,,," form_box_color="#ffffffff" form_box_bg_color="#00ccffff" inline_radio="true" radio_spacing="0,0,0,0" label_typo="Montserrat,16,,,,,Solid,,,," btn_typo="Fredoka One,18,,500,,,Solid,,,," btn_bg_color="#f05c5ce6" btn_color="#ffffff" btn_hover="" btn_bg_color_hover="#3f3a64ff" btn_color_hover="#ffffffff" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="25,25,25,25" ele_css="{{element}} .pagelayer-contact-submit-btn{
+box-shadow: 0px 2px 5px #3534344d !important;
+}
+{{element}} .pagelayer-contact-submit-btn:hover{
+transform: scale(1.1);
+box-shadow: 3px 6px 10px #35343473 !important;
+}"]
+[pl_contact_item pagelayer-id="MeomlFmGvHxTZ4J6"  label_name="Your Name" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,33,0" label_as_holder="true" required="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="JtdK3oDjLr28FMMl"  label_name="Your Email" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,33,0" label_as_holder="true" required="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="Y4G8tvcSzoZ2hg65"  label_name="Your Subject" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,33,0" label_as_holder="true" required="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="umpGTWBzmzkK3f2o"  label_name="Your Message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,33,0" label_as_holder="true" required="true" textarea_rows="5"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="iJLPSKjXH3UsGDLW"  label_name="" field_type="checkbox" values="Accept terms and privacy policy" field_name="Fieldname" field_width="100" space_between="0,0,33,0" label_as_holder="true" required="true" textarea_rows="5"]
+[/pl_contact_item]
+[/pl_contact]
+[pl_icon pagelayer-id="rN1WnkUnBiDS8WDO"  icon="fas fa-divide" icon_background_size="10" icon_alignment="center" icon_color_style="#3f3a6498" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="60px" ele_vposition_offset="-100px" ele_hposition_offset="-200px" ele_custom_pos="true" ele_vposition="bottom" ele_hposition="left" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="RnOXkh78X5ysvJ67"  icon="fas fa-dot-circle" icon_background_size="10" icon_alignment="center" icon_color_style="#e2b4f0ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="65px" ele_vposition="top" ele_vposition_offset="-100px" ele_hposition="right" ele_hposition_offset="-140px" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_custom_pos="true" animation="" animation_delay="600" animation_speed="slow" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: mover 1s infinite alternate;
+animation: mover 1s infinite alternate;
+}
+
+@keyframes mover{
+0%{
+-webkit-transform: translateY(0);
+transform: translateY(0);
+}
+100%{
+-webkit-transform: translateY(-10px);
+transform: translateY(-10px);
+}
+}
+
+@media (max-width: 1024px){
+{{element}} i{
+display: none;
+}
+}"]
+[/pl_icon]
+[/pl_col]
+[/pl_row]

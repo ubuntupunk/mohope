@@ -1,0 +1,205 @@
+[pl_row pagelayer-id="rMtCYC48ZxRVKAUI"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" content_pos="center" ele_padding="10px,0px,0px,0px" ele_bg_type="color" ele_bg_color="#ffffffff" ele_zindex="NaN" ele_shadow=",,,,," ele_sticky_on="desktop,tablet,mobile" ele_sticky_offset="0"]
+[pl_col pagelayer-id="x3Ld0qwbDfdJAac2"  widget_space="15" overlay_hover_delay="400" col_width="20" col_width_tablet="30" col_width_mobile="50"]
+[pl_wp_title pagelayer-id="R0pG7fccmUJYcA2e"  site_title_state="normal" text-align="center" site_logo="true" logo_img_size="full" align="top" vertical_align="middle" logo_img_type="custom-logo" logo_img="{{theme_url}}/images/logo.png" disable_title="true" logo_img_custom_size="100"]
+[/pl_wp_title]
+[/pl_col]
+[pl_col pagelayer-id="mWODcolg9OZs7279"  widget_space="15" overlay_hover_delay="400" col_width="60" col_width_tablet="70" col_width_mobile="50"]
+[pl_wp_menu pagelayer-id="SiU7Y2LPTFmDuqx2"  nav_list="8" align="center" layout="horizontal" pointer="underline" m_animation="slide" list_style="none" submenu_ind="caret-down" menu_bg_color_hover="#f05c5ce6" menu_bg_color_active="" horizontal_padding="25" vertical_padding="10" submenu_color="#ffffff" submenu_bg_color="#0986c0" submenu_horizontal_padding="10" submenu_vertical_padding="10" submenu_left_margin="10" menu_toggle_align="center" menu_toggle_bg_color="#f05c5ce6" menu_toggle_size="30" slide_style="pagelayer-wp_menu-right" menu_width="30" menu_items_width="100" menu_posy="8" menu_bg="color" close_size="25" close_padding="8" close_color="#ffffff68" close_bg_color="#00000036" close_hover_delay="600" close_color_hover="#ffffff" close_bg_color_hover="#000000" submenu_position="left" menu_items_bg="#ffffff" menu_typo="Montserrat,18,,,,,Solid,,,," menu_color_hover="#f05c5ce6" menu_color_active="#f05c5ce6" menu_color="#3f3a64ff" drop_breakpoint="tablet" menu_toggle_align_tablet="right" dropdown_align_tablet="center" menu_toggle_padding_tablet="10" menu_toggle_size_tablet="25" menu_toggle_color="#3f3a64ff" menu_width_tablet="50" menu_posx_tablet="NaN" menu_posy_tablet="NaN" horizontal_padding_tablet="NaN" menu_toggle_align_mobile="right" menu_width_mobile="70" menu_toggle_size_mobile="20" menu_toggle_padding_mobile="10" ele_css="{{element}} ul{
+padding-left: 0px;
+}"]
+[/pl_wp_menu]
+[/pl_col]
+[pl_col pagelayer-id="w0RXze6heDwq4DBd"  widget_space="15" overlay_hover_delay="400" col_width="20" hide_tablet="true" hide_mobile="true"]
+[pl_iconbox pagelayer-id="GEDDrqIdbGilLSSk"  service_icon="fas fa-phone-volume" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#f05c5ce6" service_icon_font_size="60" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Call us Now" heading_alignment="left" service_title_spacing="0,0,10,0" heading_state="normal" service_heading_color="#3f3a64ff" service_heading_typo="Montserrat,15,,500,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" font_family="Montserrat" font_size="15" font_weight="700" ele_css="{{element}} .pagelayer-service-text{
+color: #f05c5ce6;
+}" service_rotate="340" service_icon_spacing="0,10,0,10" anim_hover="buzz" hide_tablet="true" hide_mobile="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++123 8569 458[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="1mfgjCfbtDW70Ah2"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff4f2ff" row_shape_bottom_width="240" row_shape_bottom_height="200" ele_padding="45px,0px,45px,0px" row_shape_position="bottom" row_shape_type_bottom="curve" content_pos="center" ele_zindex="NaN" ele_margin="0px,0px,0px,0px" ele_bg_type="" ele_bg_color=""]
+[pl_col pagelayer-id="b1blpjczXZXTynCm"  widget_space="NaN" overlay_hover_delay="400" col="6"]
+[pl_icon pagelayer-id="7l9iZAg9K7AdoOw2"  icon="fas fa-leaf" icon_background_size="10" icon_alignment="center" icon_color_style="#9def7cff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="NaNpx" ele_vposition="bottom" ele_vposition_offset="-35px" ele_hposition="right" ele_hposition_offset="-490px" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_track="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" icon_rotate="245" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="yAgDK215snk6sRHQ"  icon="far fa-star" icon_background_size="10" icon_alignment="center" icon_color_style="#d47cefff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="NaNpx" ele_vposition="top" ele_vposition_offset="-60px" ele_hposition="right" ele_hposition_offset="-235px" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_track="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" hide_tablet="true" hide_mobile="true"]
+[/pl_icon]
+[pl_icon pagelayer-id="1pnA1gsl3Ore4jqV"  icon="fas fa-dot-circle" icon_background_size="10" icon_alignment="center" icon_color_style="#e2b4f0ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="72px" ele_vposition="bottom" ele_vposition_offset="3px" ele_hposition="right" ele_hposition_offset="175px" ele_motion_effects="mouse" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_custom_pos="true" animation="" animation_delay="600" animation_speed="slow" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: mover 1s infinite alternate;
+animation: mover 1s infinite alternate;
+}
+
+@keyframes mover{
+0%{
+-webkit-transform: translateY(0);
+transform: translateY(0);
+}
+100%{
+-webkit-transform: translateY(-10px);
+transform: translateY(-10px);
+}
+}
+
+@media (max-width: 445px){
+{{element}} i{
+display: none;
+}
+}" ele_vposition_offset_mobile="60px" ele_hposition_offset_mobile="20px"]
+[/pl_icon]
+[pl_icon pagelayer-id="vp93HKcCmKFXKDFd"  icon="fas fa-plus" icon_background_size="10" icon_alignment="center" icon_color_style="#7cefe9ff" icon_size="pagelayer-icon-large" icon_hover_delay="400" ele_css="{{element}} .pagelayer-icon-holder i{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}" ele_align="margin" ele_height="auto" ele_position="absolute" ele_custom_width="NaNpx" ele_vposition_offset="70px" ele_hposition_offset="-325px" ele_custom_pos="true" ele_vposition="top" ele_hposition="left" ele_motion_effects="mouse" ele_mouse_effects="true" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_m_track="true" hide_mobile="true" hide_tablet="true"]
+[/pl_icon]
+[pl_heading pagelayer-id="1lPxu79FVLb3WPml"  heading_state="normal" heading_typo="Fredoka One,56,,500,,,Solid,,,," color="#3f3a64ff" heading_typo_mobile=",34,,,,,Solid,,,," ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 40px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>We are Child Care</h2>[/pl_heading]
+[pl_heading pagelayer-id="e76Z0pooHlBxJbnD"  heading_state="normal" heading_typo="Fredoka One,56,,500,,,Solid,,,," color="#f05c5ce6" ele_margin="-20px,0px,0px,0px" heading_typo_mobile=",34,,,,,Solid,,,," ele_margin_mobile="0px,0px,0px,0px" ele_css="@media (max-width: 500px) and (min-width:327px){
+{{element}} .pagelayer-heading-holder h2{
+font-size: 40px !important;
+}
+}"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Professional</h2>[/pl_heading]
+[pl_text pagelayer-id="uhNQ1swxdLi1s2pI"  font_family="Montserrat" font_size="18" font_weight="500" ele_css="{{element}} p{
+color: #3f3a64;
+}" ele_padding="20px,0px,0px,0px" font_size_mobile="16"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>[/pl_text]
+[pl_btn pagelayer-id="PMzFYgQ4z2nvKo9s"  text="Get Started" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" ele_padding="40px,0px,0px,0px" icon="fas fa-arrow-right" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="25,25,25,25" link="#" btn_typo="Fredoka One,18,,500,,,Solid,,,1," btn_bg_color="#f05c5ce6" btn_color="#ffffff" btn_hover="hover" btn_bg_color_hover="#3f3a64ff" ele_css="{{element}} a:hover{
+transform: scale(1.1);
+}" btn_custom_size="36"]
+[/pl_btn]
+[pl_image pagelayer-id="Qq9JCSUctAeYogkN"  id="{{theme_url}}/images/sun.png" id-size="full" align="right" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" custom_size="100x100" max-width="15" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_position="absolute" ele_vposition="top" ele_vposition_offset="-65px" ele_hposition="right" ele_hposition_offset="-545px" ele_custom_width="NaNpx" ele_css="{{element}} img{
+-webkit-animation: rotation 5s infinite linear;
+animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+0%{
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100%{
+-webkit-transform: rotate(359deg); transform: rotate(359deg);
+}
+}
+
+@media (max-width: 1024px){
+{{element}}{
+top: -20px;
+right: -478px;
+}
+}" hide_tablet="true" hide_mobile="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="8IlS4vugJe9o65wx"  widget_space="NaN" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="gRbApvxwvQSlfOVu"  id="{{theme_url}}/images/home-header-1.png" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" ele_m_tr_direction="same" ele_m_tr_level="0.5" ele_3d_tilt_direction="opposite" ele_3d_tilt_level="5" ele_scrolling_effects="true" motion_area="viewport" ele_motion_effect_on="desktop,tablet,mobile" ele_h_sc_direction="toleft" ele_h_sc_speed="5" ele_h_sc_left_viewport="100" ele_h_sc_right_viewport="100" ele_motion_effects="mouse"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]

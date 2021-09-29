@@ -1,0 +1,78 @@
+[pl_row pagelayer-id="33XP3PXXTQqU5kWs"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" overlay_type="color" overlay_transperancy="1" overlay_color="#000000d9" ele_bg_img="{{theme_url}}/images/footer-bg.jpg" ele_padding="10px,10px,10px,10px" parallax_img="{{theme_url}}/images/footer-bg.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover"]
+[pl_col pagelayer-id="omOQfJZz6o5F1VNT"  widget_space="0" overlay_hover_delay="400"]
+[pl_inner_row pagelayer-id="OWqaRj8QivEJpXdj"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="PC8sKD7nK02JuzR6"  widget_space="0" overlay_hover_delay="400" col="4"]
+[pl_heading pagelayer-id="xF8U9uSLyb0OTjJ8"  heading_state="normal" heading_typo="Fredoka One,28,,500,,,Solid,1.2,,," color="#ffffffff" ele_margin="30px,0px,30px,0px"]
+
+<h2>Contact Us</h2>[/pl_heading]
+[pl_phone pagelayer-id="kyuyEocIiZBvuT6W"  icon="fas fa-phone-volume" color="#ffffffcc" typography="Montserrat,14,,,,,Solid,,,," space="10" icon_color="#ffffffcc" icon_size="16" ele_margin="0px,0px,5px,0px"]
+[/pl_phone]
+[pl_email pagelayer-id="UuEKNfzr2NM8Xt36"  icon="fas fa-envelope-open-text" color="#ffffffcc" icon_color="#ffffffcc" typography="Montserrat,14,,,,,Solid,,,," space="10" icon_size="16" ele_margin="0px,0px,5px,0px"]
+[/pl_email]
+[pl_address pagelayer-id="DTT6ktrHiZezB9PZ"  icon="fas fa-map" ele_margin="0px,0px,5px,0px" color="#ffffffcc" typography="Montserrat,14,,,,,Solid,,,," space="10" icon_color="#ffffffcc" icon_size="16"]
+[/pl_address]
+[pl_iconbox pagelayer-id="KoTiMqjBZgVVDdZn"  service_icon="far fa-clock" service_alignment="left" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffcc" service_icon_font_size="16" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Working day: 9am - 5pm EST, Monday - Friday" heading_alignment="left" service_title_spacing="0,0,0,10" heading_state="normal" service_heading_color="#ffffffcc" service_heading_typo="Montserrat,14,,,,,Solid,1.2,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_margin="0px,0px,5px,0px"]
+
+[/pl_iconbox]
+[pl_share_grp pagelayer-id="EpSdFeCIeDi8C6Q3"  type="icon-label" bg_shape="pagelayer-social-bg-none" align="left" vspace="12" hspace="10" height="35" icon_size="25" icon_space="5" color_scheme="" icon_color="#ffffffcc" social_hover_delay="400" name_typo=",15,,,,,solid,,,," ele_padding="0px,0px,0px,0px" hide_name="true" icon_bg_color=""]
+[pl_share pagelayer-id="qNlRfc8uTotw8vuz"  icon="fab fa-facebook-square"]
+[/pl_share]
+[pl_share pagelayer-id="77B4vCcmeIve90AU"  icon="fab fa-pinterest-square"]
+[/pl_share]
+[pl_share pagelayer-id="QxE6Z6LwNTnvQNTw"  icon="fab fa-google-plus-square"]
+[/pl_share]
+[pl_share pagelayer-id="EJQwAnkXALKMPnyy"  icon="fab fa-skype"]
+[/pl_share]
+[/pl_share_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="TZy8s1bO0kwTftcQ"  widget_space="0" overlay_hover_delay="400" col="4"]
+[pl_heading pagelayer-id="JSeRC8jziwpP0cwr"  heading_state="normal" heading_typo="Fredoka One,28,,500,,,Solid,1.2,,," color="#ffffffff" ele_margin="30px,0px,30px,0px"]
+
+<h2>Information</h2>[/pl_heading]
+[pl_list pagelayer-id="IyROMRSUCCyCNJWo"  list_type="none" spacing="5" list_text_state="hover" item_indent="0" list_icon_state="normal" icon_color="#ffffffff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Montserrat,14,,,,,Solid,,,," list_color="#ffffffcc" list_color_hover="#f05c5cff" list_hover_delay="600" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_custom_width="150px" ele_custom_width_tablet="1000px" ele_custom_width_mobile="1000px"]
+[pl_list_item pagelayer-id="p2Utq4ODaURLoLhy"  show_icon="" icon="fas fa-star"]
+
+- Home[/pl_list_item]
+[pl_list_item pagelayer-id="ZXlHsI6JQB29X2wK"  show_icon="" icon="fas fa-star"]
+
+- About[/pl_list_item]
+[pl_list_item pagelayer-id="JUaQJ07P5B9gqMVW"  show_icon="" icon="fas fa-star"]
+
+- Contact[/pl_list_item]
+[pl_list_item pagelayer-id="jaPcpBN76UZqNFqT"  show_icon="" icon="fas fa-star"]
+
+- Classes[/pl_list_item]
+[/pl_list]
+[pl_list pagelayer-id="JqZYnXtugrKiKquQ"  list_type="none" spacing="5" list_text_state="hover" item_indent="0" list_icon_state="normal" icon_color="#ffffffff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" list_typo="Montserrat,14,,,,,Solid,,,," list_color="#ffffffcc" list_color_hover="#f05c5cff" list_hover_delay="600" ele_custom_pos="true" ele_align="margin" ele_height="auto" ele_custom_width="150px" ele_custom_width_tablet="1000px" ele_custom_width_mobile="1000px"]
+[pl_list_item pagelayer-id="tQwbZV3kzpvvzXkY"  show_icon="" icon="fas fa-star" item_url="332"]
+
+- Blog[/pl_list_item]
+[pl_list_item pagelayer-id="vpHh9uyb4vW8UYbm"  show_icon="" icon="fas fa-star" item_url="#"]
+
+- FAQ[/pl_list_item]
+[pl_list_item pagelayer-id="fRYpejQ4oQeemE1Q"  show_icon="" icon="fas fa-star" item_url="#"]
+
+- Privacy Policy[/pl_list_item]
+[pl_list_item pagelayer-id="0q72IbLEQjF4ktPD"  show_icon="" icon="fas fa-star" item_url="#"]
+
+- Terms of Services[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="bxWtuyao5600jshj"  widget_space="0" overlay_hover_delay="400" col="4"]
+[pl_heading pagelayer-id="WevDyrDQ8V3Rzse9"  heading_state="normal" heading_typo="Fredoka One,28,,500,,,Solid,1.2,,," color="#ffffffff" ele_margin="30px,0px,30px,0px"]
+
+<h2>Our Gallery</h2>[/pl_heading]
+[pl_grid_gallery pagelayer-id="t2p64Ny5W4EQpXpW"  columns="4" size="custom" link_to="lightbox" align="left" images_no="30" ids="{{theme_url}}/images/event1.jpg,{{theme_url}}/images/event2.jpg,{{theme_url}}/images/event3.jpg,{{theme_url}}/images/event4.jpg,{{theme_url}}/images/post1.jpg,{{theme_url}}/images/post2.jpg,{{theme_url}}/images/post3.jpg,{{theme_url}}/images/swimming.jpg" custom_size="85,85" col_gap="10" row_gap="10" columns_tablet="8" col_gap_tablet="10" row_gap_tablet="10"]
+[/pl_grid_gallery]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="YcX4zjJ93jTvAM3k"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="50px,0px,0px,0px" border_type="solid" border_width="1px,0px,0px,0px" border_color="#ffffffcc"]
+[pl_inner_col pagelayer-id="PXc6BN5RQEz2PRTZ"  widget_space="15" overlay_hover_delay="400"]
+[pl_copyright pagelayer-id="0tGnHMXdHxLq5Hmu"  ele_padding="20px,0px,20px,0px" color="#ffffffff" typography="Fredoka One,16,,500,,,Solid,,,," ele_css="{{element}} span{
+color: #f05c5cff !important;
+}"]
+[/pl_copyright]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

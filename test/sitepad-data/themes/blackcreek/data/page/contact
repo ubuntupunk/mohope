@@ -1,0 +1,45 @@
+[pl_row pagelayer-id="7tEJNlyWIcX47YEN"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.3" overlay_color="#000000ff" ele_padding_mobile="80px,0px,80px,0px" ele_padding_tablet="120px,0px,120px,0px"]
+[pl_col pagelayer-id="skAb0K1WWd2klx1i"  widget_space="15" overlay_hover_delay="400" ele_padding_mobile="0px,0px,0px,0px" ele_margin_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="EMSpsJxVFBS277pe"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Cabin,40,,500,,,Solid,,Uppercase,3," ele_padding="0px,0px,0px,30px" heading_typo_mobile=",26,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+contact us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="bYn7LWEgLhX3EvQQ"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#1d1d29ff" ele_padding="60px,0px,60px,0px" ele_padding_mobile="30px,0px,29px,0px" ele_padding_tablet="40px,0px,40px,0px"]
+[pl_col pagelayer-id="FUo8eMdYYhh3fTGH"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="NrD58wEUmEl6AtB8"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Cabin,35,,500,,,Solid,,Uppercase,3," ele_padding="0px,0px,0px,30px" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+
+
+get in touch[/pl_heading]
+[pl_text pagelayer-id="xnOBqpe5Em6XoooF"  ele_padding="0%,15%,0%,15%" ele_padding_mobile="0px,15px,0px,1px" ele_padding_tablet="0%,10%,0%,10%" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+<p style="font-family:roboto;font-size:16px;line-height:1.8;color:#fff;font-weight:400;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. </p>[/pl_text]
+[pl_contact pagelayer-id="HTFbLyIwvQiQMWpa"  form="contact-form" name="Contact Form" form_position="center" space_label=",,10," input_padding="12,20" radio_padding="10,10" field_hover_delay="400" submit="send" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" form_input_bg="#00000000" form_input_color="#ffffffff" form_placeholder_color="#ffffffff" placeholder_typo="Roboto,13,,300,,,Solid,,Uppercase,1," field_border_type="solid" field_border_color="#f5bd68ff" field_border_width="0,0,2,0" field_border_radius="15,15,15,15" input_height="25" btn_typo="Roboto,14,,300,,,Solid,,Uppercase,1," btn_bg_color="#00000000" btn_color="#ffffffff" btn_border_type="solid" btn_border_color="#f5bd68ff" btn_border_width="2,2,2,2" btn_border_radius="30,30,30,30" btn_custom_size="10,30" ele_padding="4%,25%,0%,25%" ele_padding_mobile="0px,30px,0px,30px" input_height_mobile="20" placeholder_typo_mobile=",12,,,,,Solid,,,," btn_typo_mobile=",12,,,,,Solid,,,," ele_padding_tablet="4%,20%,0%,20%" animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+[pl_contact_item pagelayer-id="5h3G3Uex283QbbFP"  label_name="full name surname" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,10,0" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="h6b75AS3mZTdjpi7"  label_name="email" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,10,0" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="LkDVeQ1AnombGXDT"  label_name="+987 |" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,10,0" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="7cjgDMugkH5whIo6"  label_name="subject" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,10,0" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="S8Wtsy17TqcCIq8X"  label_name="message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,10,0" label_as_holder="true" textarea_rows="4"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Q3130X5CPWMRK1YB"  stretch="full" col_gap="1" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#1d1d29ff" animation="fadeInUp" animation_delay="600" animation_speed="slowest"]
+[pl_col pagelayer-id="4dqXOD5Pvbawcwyc"  widget_space="15" overlay_hover_delay="400"]
+[pl_google_maps pagelayer-id="8nex55TZYKtkBDnt"  zoom="10" height="350" height_mobile="250" height_tablet="30"]
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
